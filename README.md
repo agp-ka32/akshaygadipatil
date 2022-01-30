@@ -2,8 +2,8 @@
 
 My research work is best accessed at: www.sfu.ca/~agadipat
 
-- 🔭 I work on: 3D Computer Graphics + Deep Learning
-- 🌱 I’m currently learning: pre-deep learning era algorithms in shape analysis
+- 🔭 I work on: 3D Computer Graphics + Deep Learning (DL)
+- 🌱 I’m currently learning: Pre-DL era algorithms in geometry processing and shape analysis
 - 👯 I’m open to collaborations on research projects trying to develop learning-based algorithms for modeling visual data
 - 📫 How to reach me: Email
 - 😄 Pronouns: He/Him/His
