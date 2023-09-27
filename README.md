@@ -2,8 +2,8 @@
 
 My research work is best accessed at: www.sfu.ca/~agadipat
 
-- 🔭 I work on: 3D Computer Graphics + Deep Learning (DL)
-- 🌱 I’m currently learning: To catch up and contribute to the fastly evolving field of geometric modeling/3D computer graphics
+- 🔭 I work on: 3D Computer Graphics + Robotics + Deep Learning (DL)
+- 🌱 I’m currently learning: Applications of foundation models to 3D geometric modeling (shapes and scenes), and visual data in general
 - 👯 I’m open to collaborations on research projects trying to develop learning-based algorithms for modeling visual data
 - 📫 How to reach me: Email
 - 😄 Pronouns: He/Him/His
